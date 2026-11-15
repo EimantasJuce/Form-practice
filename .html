@@ -9,13 +9,16 @@
 <body>
 
     <form autocomplete="off" class="form">
-
-    <div>
-        <lable for="fname">Firstname</lable>
+    <p class="title">Register</p>
+    <div class="form-group">
+        <lable for="fname">
         <input type="text" id="fname" name="fname" placeholder="i.e. john" required> 
-    
-        <lable for="lname">Lastname</lable>
+        <span>Firstname</span>
+       </lable>
+        <lable for="lname">
         <input type="text" id="lname" name="lname" placeholder="i.e. smith" required> 
+       <span>Last name</span>
+       </lable>
     </div>
 
     
@@ -33,15 +36,14 @@
         <input type="password" id="confirm password" name="password" required> 
     </lable>
 
-
+   <div>
         <input type="reset">
-
+    </div>
     <button class="submit"> Submit </button>
     <p class="signin">
     Already have an account?
      <a href="#">Signin</a>
     </p>
-  
     </form>
     
 </body>
