@@ -22,9 +22,15 @@
     padding: 20px;
     border-radius: 20px;
     position: relative;
+    text-al
 }
 
 .title{
     font-size: 28px;
-    colour: rgb(63, 66, 255)
+    colour: #1ab188;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    postion: relative;
+    text-align: center;
+    color: #1ab188;
 }
