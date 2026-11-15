@@ -23,3 +23,8 @@
     border-radius: 20px;
     position: relative;
 }
+
+.title{
+    font-size: 28px;
+    colour: rgb(63, 66, 255)
+}
