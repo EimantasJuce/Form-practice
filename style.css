@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #f7f7f7;
+    background: #ffeed1;
 }
 
 .form {
@@ -26,10 +26,9 @@
 
 .title{
     font-size: 28px;
-    color: #1ab188;
+    color: #000e19;
     font-weight: 600;
     letter-spacing: 0.3px;
     position: relative;
     text-align: center;
-    color: #1ab188;
 }
